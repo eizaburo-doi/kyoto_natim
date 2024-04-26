@@ -12,7 +12,7 @@ Here we provide MATLAB mat files of nonlinear responses of L-cone (OL), M-cone (
 _r<sub>nl</sub> = 1 –_ exp( _– k  r<sub>l</sub>_ ) <br>
 where _r<sub>l</sub>_ is linear cone responses, _r<sub>nl</sub>_ is non-linearly transformed cone responses in the range [0,1], and the parameter _k_ is determined so that the median of _r<sub>nl</sub>_ is 0.5 for each scene and for each cone-type.
 
-For a more complete description, please refer to the appendix of <a href="https://tinyurl.com/bd3ty7ms">Doi et al. (2003)</a>.  Further details of the image calibration can be found in the chapter 2 of my <a href="https://drive.google.com/file/d/0B0YejhPIw9kRSC05N1ZTV0NZYzQ/view?usp=share_link&resourcekey=0-1f-JIDr2t44I8FOehU98sQ">thesis</a>.
+For a more complete description, please refer to the appendix of <a href="https://tinyurl.com/bd3ty7ms">Doi et al. (2003)</a>.  Further details of the image calibration can be found in the chapter 2 of my <a href="https://drive.google.com/file/d/1Kcjq0sxhbrwkXUTHypnNe4LdWfDMxRNU/view?usp=drive_link">thesis</a>.
 
 ## Acknowledgement
 The construction of this dataset was supported by Grant-in-Aid for Scientific Research (A)(2) from MEXT (#11309007) to Toshio Inui and by JSPS Research Fellowships for Young Scientists (#200103140) to Eizaburo Doi. We acknowledge Toshikazu Wada for his help with the camera calibration and Kyoto Botanical Gardens for assistance with natural image collection. 
